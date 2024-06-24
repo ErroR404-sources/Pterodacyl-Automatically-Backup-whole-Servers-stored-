@@ -1,8 +1,7 @@
-
-Pterodactyl Automated Backups is a Python script that automates the process of creating backups for all servers connected to your panel. It utilizes the Pterodactyl API to initiate backups for multiple servers consecutively. In case of backup failures, it provides a retry mechanism and sends email alerts to notify the administrator.
-
 ## Features
  both  filesystem backups.
+ it can be set daily backup time 
+ its free pterodacyl Servers backup 
 
  apt update 
  apt install python3
